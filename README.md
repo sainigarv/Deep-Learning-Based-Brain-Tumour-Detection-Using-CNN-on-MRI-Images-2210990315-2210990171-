@@ -1,4 +1,4 @@
-#Brain Tumor Detection Using MRI Scans
+**Brain Tumor Detection Using MRI Scans**
 
 **Overview**
 
@@ -39,7 +39,8 @@ Traditional analysis of MRI images depends on manual interpretation by radiologi
 -Matplotlib
 
 **Dataset**
--The project uses MRI brain scan datasets for training and testing the model.
+   https://www.kaggle.com/datasets/masoudnickparvar/brain-tumormri-dataset
+
 
 **Working Process**
 -Collect MRI scan images
