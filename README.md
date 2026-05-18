@@ -1,70 +1,70 @@
-Brain Tumor Detection Using MRI Scans
+#Brain Tumor Detection Using MRI Scans
 
-Overview
+**Overview**
 
 This project focuses on the automated detection of brain tumors using MRI (Magnetic Resonance Imaging) scans. The system helps in identifying abnormal growths in the brain with improved accuracy and reduced human effort.
 
-Problem Statement
+**Problem Statement**
 Traditional analysis of MRI images depends on manual interpretation by radiologists, which can be time-consuming and prone to errors. This project aims to develop an automated system for faster and more accurate brain tumor detection.
 
-Objectives
-Detect brain tumors from MRI images
+**Objectives**
+-Detect brain tumors from MRI images
 
-Improve diagnostic accuracy
+-Improve diagnostic accuracy
 
-Reduce manual effort in medical image analysis
+-Reduce manual effort in medical image analysis
 
-Provide faster results for early diagnosis
+-Provide faster results for early diagnosis
 
-Features
-MRI image preprocessing
+**Features**
+-MRI image preprocessing
 
-Brain tumor detection and classification
+-Brain tumor detection and classification
 
-User-friendly interface
+-User-friendly interface
 
-Accurate and efficient analysis
+-Accurate and efficient analysis
 
-Technologies Used
-Python
+**Technologies Used**
+-Python
 
-Machine Learning / Deep Learning
+-Machine Learning / Deep Learning
 
-TensorFlow / Keras
+-TensorFlow / Keras
 
-OpenCV
+-OpenCV
 
-NumPy
+-NumPy
 
-Matplotlib
+-Matplotlib
 
-Dataset
-The project uses MRI brain scan datasets for training and testing the model.
+**Dataset**
+-The project uses MRI brain scan datasets for training and testing the model.
 
-Working Process
-Collect MRI scan images
+**Working Process**
+-Collect MRI scan images
 
-Preprocess the images
+-Preprocess the images
 
-Train the detection model
+-Train the detection model
 
-Test and evaluate accuracy
+-Test and evaluate accuracy
 
-Predict brain tumor presence
+-Predict brain tumor presence
 
-Advantages
-Faster diagnosis
+**Advantages**
+-Faster diagnosis
 
-Reduced human error
+-Reduced human error
 
-Efficient handling of large datasets
+-Efficient handling of large datasets
 
-Supports medical professionals in decision-making
+-Supports medical professionals in decision-making
 
-Future Scope
-Improve model accuracy using advanced deep learning techniques
+**Future Scope**
+-Improve model accuracy using advanced deep learning techniques
 
-Develop a real-time detection system
+-Develop a real-time detection system
 
 Integrate with hospital management systems
 
